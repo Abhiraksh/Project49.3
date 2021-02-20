@@ -1,0 +1,19 @@
+h1{
+    background-color: aquamarine;
+    color:magenta;
+    display: flex;
+    justify-content: center ;
+}
+body{
+    border: double;
+    background-color:thistle ;
+}
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  color: blue;
+}
+hr{
+    border: dashed;
+    
+}
